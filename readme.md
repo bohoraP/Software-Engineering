@@ -7,3 +7,8 @@
     git add . 
     git commit -m "message"
 ```
+
+## To add remote origin 
+```bash
+git remote add origin <git-http>
+```
